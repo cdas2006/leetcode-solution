@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cdas2006/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/cdas2006/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/cdas2006/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cdas2006/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
