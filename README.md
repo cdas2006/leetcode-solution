@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/cdas2006/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/cdas2006/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/cdas2006/leetcode-solution/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/cdas2006/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/cdas2006/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
