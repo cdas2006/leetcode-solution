@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/cdas2006/leetcode-solution/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/cdas2006/leetcode-solution/tree/master/0686-repeated-string-match) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
