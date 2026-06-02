@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/cdas2006/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/cdas2006/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
@@ -104,4 +107,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/cdas2006/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
