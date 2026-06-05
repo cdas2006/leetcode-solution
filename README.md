@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
