@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/cdas2006/leetcode-solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/cdas2006/leetcode-solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
