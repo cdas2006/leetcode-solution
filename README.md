@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/cdas2006/leetcode-solution/tree/master/1470-shuffle-the-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/cdas2006/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/cdas2006/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/cdas2006/leetcode-solution/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
