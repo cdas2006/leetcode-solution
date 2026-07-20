@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/cdas2006/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
