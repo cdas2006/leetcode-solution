@@ -20,13 +20,14 @@ public:
         }
 
         // edge cases
-        if (count == 1 || count == k)
+        if (count == 1 || count == k || k==0)
             return head;
 
         if (head == NULL || head->next == NULL)
             return head;
 
         k = k % count;
+
         if(k==0)
         return head;
 
