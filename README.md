@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cdas2006/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/cdas2006/leetcode-solution/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cdas2006/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/cdas2006/leetcode-solution/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
