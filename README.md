@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cdas2006/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cdas2006/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cdas2006/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cdas2006/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/cdas2006/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/cdas2006/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
