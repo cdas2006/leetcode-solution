@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/cdas2006/leetcode-solution/tree/master/0686-repeated-string-match) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cdas2006/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/cdas2006/leetcode-solution/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
