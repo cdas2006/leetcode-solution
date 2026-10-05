@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cdas2006/leetcode-solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/cdas2006/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cdas2006/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/cdas2006/leetcode-solution/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0125-valid-palindrome) |
