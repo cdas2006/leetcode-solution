@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cdas2006/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/cdas2006/leetcode-solution/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/cdas2006/leetcode-solution/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
