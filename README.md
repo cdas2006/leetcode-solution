@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/cdas2006/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cdas2006/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/cdas2006/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/cdas2006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/cdas2006/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/cdas2006/leetcode-solution/tree/master/0136-single-number) |
 ## Queue
 |  |
 | ------- |
