@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/cdas2006/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/cdas2006/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cdas2006/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
