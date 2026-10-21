@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/cdas2006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/cdas2006/leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cdas2006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
+| [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cdas2006/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/cdas2006/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/cdas2006/leetcode-solution/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
 | ------- |
