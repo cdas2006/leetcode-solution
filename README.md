@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1470-shuffle-the-array](https://github.com/cdas2006/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/cdas2006/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cdas2006/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/cdas2006/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/cdas2006/leetcode-solution/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/cdas2006/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/cdas2006/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/cdas2006/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/cdas2006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -270,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cdas2006/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
