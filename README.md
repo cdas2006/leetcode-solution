@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/cdas2006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/cdas2006/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/cdas2006/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/cdas2006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/cdas2006/leetcode-solution/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cdas2006/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/cdas2006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cdas2006/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/cdas2006/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/cdas2006/leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/cdas2006/leetcode-solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/cdas2006/leetcode-solution/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Queue
