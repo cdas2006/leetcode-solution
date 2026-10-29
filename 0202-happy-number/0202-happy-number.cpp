@@ -18,11 +18,6 @@ public:
         
         if(n==1)
         return true;
-
-        if(n<=9 && n>3)
-        {
-            n = n*n;
-        }
         
         int num,rem;
 
