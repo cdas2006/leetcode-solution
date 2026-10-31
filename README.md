@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cdas2006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/cdas2006/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/cdas2006/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/cdas2006/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/cdas2006/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cdas2006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/cdas2006/leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/cdas2006/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/cdas2006/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
