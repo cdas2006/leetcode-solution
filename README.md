@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/cdas2006/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cdas2006/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cdas2006/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/cdas2006/leetcode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/cdas2006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cdas2006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/cdas2006/leetcode-solution/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/cdas2006/leetcode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
