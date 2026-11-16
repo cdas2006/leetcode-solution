@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/cdas2006/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/cdas2006/leetcode-solution/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/cdas2006/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cdas2006/leetcode-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/cdas2006/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/cdas2006/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/cdas2006/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/cdas2006/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cdas2006/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/cdas2006/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/cdas2006/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/cdas2006/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cdas2006/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
