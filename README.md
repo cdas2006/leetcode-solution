@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cdas2006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/cdas2006/leetcode-solution/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/cdas2006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/cdas2006/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cdas2006/leetcode-solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/cdas2006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdas2006/leetcode-solution/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cdas2006/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/cdas2006/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/cdas2006/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/cdas2006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/cdas2006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/cdas2006/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/cdas2006/leetcode-solution/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/cdas2006/leetcode-solution/tree/master/0686-repeated-string-match) |
