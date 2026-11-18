@@ -5,7 +5,7 @@ public:
         int first=0,second=0,len=0;
         while(second<s.size()) {
             // repeating char
-            while (count[s[second]])
+            while (count[s[second]]==1)
             {
                 count[s[first]]=0;
                 first++;
