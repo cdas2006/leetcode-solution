@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/cdas2006/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cdas2006/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/cdas2006/leetcode-solution/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/cdas2006/leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2785-sort-vowels-in-a-string](https://github.com/cdas2006/leetcode-solution/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/cdas2006/leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
