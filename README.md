@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/cdas2006/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/cdas2006/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,10 +342,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/cdas2006/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cdas2006/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/cdas2006/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/cdas2006/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
